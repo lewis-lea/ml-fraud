@@ -1,2 +1,5 @@
 # ml-fraud
 Developing a range of different ML models for fraud detection, and monitoring throughout use lifecycle.
+
+# data
+The data for this project is the [SynSEPA](https://huggingface.co/datasets/EpiphanyTech/SynSEPA) dataset
